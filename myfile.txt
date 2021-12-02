@@ -18,4 +18,4 @@ Su Mo Tu We Th Fr Sa
     --long                show status in long format (default)
     -z, --null            terminate entries with NUL
     --amend               amend previous commit
-    --no-post-rewrite     bypass post-rewrite hook
+    --no-post-rewrite     bypass post-rewrite hookNow let's do some gitignore. I never knew Microsoft owns Git!  What!!!
